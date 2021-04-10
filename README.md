@@ -4,7 +4,7 @@
 (Selected topic)
 
 ## Purpose:
-(Reason why selected topic, description of source data, questions hope to answer with the data)
+A great amount of data is on wine to help simplfy this project.
 
 
 ## Project Details:
